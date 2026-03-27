@@ -1,5 +1,7 @@
 # 🎯 Jogo de Sorteio de Números
 
+https://phpa2013.github.io/simulador-de-lotomania-loteria-caixa/
+
 Projeto desenvolvido em JavaScript puro onde o usuário escolhe até 50 números entre 0 e 99, e o sistema realiza um sorteio automático de 20 números, exibindo os acertos.
 
 ---
