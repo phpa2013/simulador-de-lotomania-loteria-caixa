@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    background-color: #f3f3f3;
+}
+
+.container , .headerContainer{
+    background-color: white;
+}
+
+.showGameButton{
+    color: black;
+    box-shadow: 0 0 2px rgba(0, 0, 0, .08);
+    background-color: orange;
+}
+.showGameButton:hover{
+    background-color: rgb(214, 142, 9);
+}
+
+.app{
+    box-shadow: 0 0 10px rgba(0, 0, 0, .08);
+}
+.app h1{
+    color: orange;
+}
+
+.btnNumber{
+    background-color: transparent;
+    color: orange;
+}
+
+.btnNumber.active{
+    background-color: orange;
+    color: white;
+}
+
+.btnStart{
+   background-color:#0d6efd; 
+}
+.btnStart:hover{
+    background-color:#0a5ad1;
+}
+
+
+.btnReset{
+    background-color: #dc3545
+}
+.btnReset:hover{
+    background-color: #a70e1d
+}
+.btnActions .btn{
+    color: white;
+}
+
+.disabled{
+    background-color: #ccc;
+    opacity: .5;
+}
+.acerto{
+    background-color: green;
+}
+.feedBack p{
+    color: blue;    
+}
